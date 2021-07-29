@@ -1,0 +1,96 @@
+{
+  "Json_Data": [
+    {
+      "Admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+      "Admob_banner": "ca-app-pub-3940256099942544/6300978111",
+
+      "IronSource_App_Key": "85460dcd",
+      "IronSource_interstitial": "DefaultInterstitial",
+      "IronSource_banner": "DefaultBanner",
+	  
+      "Active_Ad_network": "admob ironsource",
+	  
+      "Ad__1__Interstitial": "admob",
+      "Ad__2__Interstitial": "admob",
+	  
+      "Ad__X__Banner": "admob",
+
+
+      "ClicksTo_showAd": "2",
+	  
+      "App_suspended": "no",
+      "NewApp_package": "com.facebook.lite",
+      "NewApp_title": "App update!",
+      "NewApp_message": "please update to new version!",
+  
+      "Json_Checker": "dont_change_this"
+    }
+  ],
+  
+  "GuideList": [
+    {
+      "cat_name": "Main Tips",
+      "cat_disc": "Improve your skills",
+      "cat_text": "Then, when you're all set (or run out of things to loot before the electrical field starts getting close) it's a case of going where the white circle is. You'll need to find safe points to rest, loot, and defend yourself along the way, while the player count gradually drops, until you ideally reach the last 10 or 15 players.Then, when you're all set (or run out of things to loot before the electrical field starts getting close) it's a case of going where the white circle is. You'll need to find safe points to rest, loot, and defend yourself along the way, while the player count gradually drops, until you ideally reach the last 10 or 15 players.",
+      "cat_image": "https://cdn.mos.cms.futurecdn.net/ndoFJA36w4c2Lg5HDmCk7C.jpg"
+    },
+    {
+      "cat_name": "Mastering the essentials",
+      "cat_disc": "strategies and priorities",
+      "cat_text": "Likewise, mid-game kills are a great way to take your gear from passable to excellent. And finally, if you do get spotted hiding in a bush, it helps to know how to shoot the one who found you.Likewise, mid-game kills are a great way to take your gear from passable to excellent. And finally, if you do get spotted hiding in a bush, it helps to know how to shoot the one who found you.",
+      "cat_image": "https://blog.en.uptodown.com/files/2018/05/pubg-mobile-miramar-featured.jpg"
+    },
+    {
+      "cat_name": "Advanced Using",
+      "cat_disc": "strategies and priorities",
+      "cat_text": "PUBG can get a little overwhelming, especially for beginners, so here's a rundown of the basics that you need to know - and some useful stuff that it really helps to get to grips with early - before we start diving into the more advanced strategies.PUBG can get a little overwhelming, especially for beginners, so here's a rundown of the basics that you need to know - and some useful stuff that it really helps to get to grips with early - before we start diving into the more advanced strategies.",
+      "cat_image": "https://cdn.vox-cdn.com/thumbor/1aEBg8tzbhoY3p4eOJ3a1s16sSY=/0x0:1920x1078/1200x800/filters:focal(793x601:1099x907)/cdn.vox-cdn.com/uploads/chorus_image/image/59268643/savage_parachute.0.jpg"
+    },
+	{
+      "cat_name": "Combat Mode",
+      "cat_disc": "strategies and priorities",
+      "cat_text": "PUBG is not your typical shooter. The aim is to survive, not to get the most kills - in fact you can win without getting a single one - so your usual shooter strategy needs to adapt.PUBG is not your typical shooter. The aim is to survive, not to get the most kills - in fact you can win without getting a single one - so your usual shooter strategy needs to adapt.",
+      "cat_image": "https://cdn.mos.cms.futurecdn.net/ndoFJA36w4c2Lg5HDmCk7C.jpg"
+    }
+	,
+	{
+      "cat_name": "Estensions",
+      "cat_disc": "strategies and priorities",
+      "cat_text": "In fact, many of the highest-ranking players who are aiming to compete at upcoming tournaments simply rely on 'boring' stealth strategies, like hiding offshore on boats, to see them through to the final gunfight at the end of a round. The argument goes that everyone else will kill each other anyway, so why expose yourself to the risk?",
+      "cat_image": "https://blog.en.uptodown.com/files/2018/05/pubg-mobile-miramar-featured.jpg"
+    },
+	{
+      "cat_name": "Main Tips",
+      "cat_disc": "Improve your skills",
+      "cat_text": "But that's not the whole story - combat, for starters, is great practise. PUBG's combat mechanics are a little odd and mastering those makes a massive difference to how many final-10 situations you'll win.But that's not the whole story - combat, for starters, is great practise. PUBG's combat mechanics are a little odd and mastering those makes a massive difference to how many final-10 situations you'll win.",
+      "cat_image": "https://cdn.mos.cms.futurecdn.net/ndoFJA36w4c2Lg5HDmCk7C.jpg"
+    },
+    {
+      "cat_name": "Mastering the essentials",
+      "cat_disc": "strategies and priorities",
+      "cat_text": "Likewise, mid-game kills are a great way to take your gear from passable to excellent. And finally, if you do get spotted hiding in a bush, it helps to know how to shoot the one who found you.Likewise, mid-game kills are a great way to take your gear from passable to excellent. And finally, if you do get spotted hiding in a bush, it helps to know how to shoot the one who found you.",
+      "cat_image": "https://blog.en.uptodown.com/files/2018/05/pubg-mobile-miramar-featured.jpg"
+    },
+    {
+      "cat_name": "Advanced Using",
+      "cat_disc": "strategies and priorities",
+      "cat_text": "Then, when you're all set (or run out of things to loot before the electrical field starts getting close) it's a case of going where the white circle is. You'll need to find safe points to rest, loot, and defend yourself along the way, while the player count gradually drops, until you ideally reach the last 10 or 15 players.Then, when you're all set (or run out of things to loot before the electrical field starts getting close) it's a case of going where the white circle is. You'll need to find safe points to rest, loot, and defend yourself along the way, while the player count gradually drops, until you ideally reach the last 10 or 15 players.",
+      "cat_image": "https://cdn.vox-cdn.com/thumbor/1aEBg8tzbhoY3p4eOJ3a1s16sSY=/0x0:1920x1078/1200x800/filters:focal(793x601:1099x907)/cdn.vox-cdn.com/uploads/chorus_image/image/59268643/savage_parachute.0.jpg"
+    },
+	{
+      "cat_name": "Combat Mode",
+      "cat_disc": "strategies and priorities",
+      "cat_text": "PUBG can get a little overwhelming, especially for beginners, so here's a rundown of the basics that you need to know - and some useful stuff that it really helps to get to grips with early - before we start diving into the more advanced strategies.PUBG can get a little overwhelming, especially for beginners, so here's a rundown of the basics that you need to know - and some useful stuff that it really helps to get to grips with early - before we start diving into the more advanced strategies.",
+      "cat_image": "https://cdn.mos.cms.futurecdn.net/ndoFJA36w4c2Lg5HDmCk7C.jpg"
+    }
+	,
+	{
+      "cat_name": "Estensions",
+      "cat_disc": "strategies and priorities",
+      "cat_text": "Remember to toggle your rate of fire with the B key or left on the d-pad on console.There are not two, but three types of aiming. Hip fire, a more accurate hip-fire (holding right mouse-button), and aiming-down-sights ('ADS', by tapping right mouse-button). You'll also be able to change the settings to go straight to ADS by holding right-click rather than toggling it on/off.There are not two, but three types of aiming. Hip fire, a more accurate hip-fire (holding right mouse-button), and aiming-down-sights ('ADS', by tapping right mouse-button). You'll also be able to change the settings to go straight to ADS by holding right-click rather than toggling it on/off.",
+      "cat_image": "https://blog.en.uptodown.com/files/2018/05/pubg-mobile-miramar-featured.jpg"
+    }
+
+
+  ]
+}
